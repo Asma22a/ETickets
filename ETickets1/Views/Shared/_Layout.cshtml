@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>@ViewData["Title"] - ETickets</title>
+	<script type="importmap"></script>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/ETickets.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+	<header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+
+		<div class="container">
+
+			<ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+				<li>
+					<a href="/Customer/Home/Index" class="nav-item nav-link link-body-emphasis px-3">Home</a>
+				</li>
+				<li>
+					<a href="/Customer/Home/Cinema" class="nav-item nav-link link-body-emphasis px-3">Cinema</a>
+				</li>
+				<li>
+					<a href="/Customer/Home/Category" class="nav-item nav-link link-body-emphasis px-3">Category</a>
+				</li>
+			</ul>
+		</div>
+
+	</header>
+	<div class="container">
+		<main role="main" class="pb-3">
+			@RenderBody()
+		</main>
+	</div>
+
+	<footer class="container py-5">
+		<div class="row">
+			<div class="col-12 col-md">
+				<small class="d-block mb-3 text-body-secondary">© 2017–2025</small>
+			</div>
+			<div class="col-6 col-md">
+				<h5>Features</h5>
+				<ul class="list-unstyled text-small">
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Cool stuff</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Random feature</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Team feature</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Stuff for developers</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Another one</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Last time</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-6 col-md">
+				<h5>Resources</h5>
+				<ul class="list-unstyled text-small">
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Resource name</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Resource</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Another resource</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Final resource</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-6 col-md">
+				<h5>Resources</h5>
+				<ul class="list-unstyled text-small">
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Business</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Education</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Government</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Gaming</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-6 col-md">
+				<h5>About</h5>
+				<ul class="list-unstyled text-small">
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Team</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Locations</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Privacy</a>
+					</li>
+					<li>
+						<a class="link-secondary text-decoration-none" href="#">Terms</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</footer>
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="~/js/site.js" asp-append-version="true"></script>
+	@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

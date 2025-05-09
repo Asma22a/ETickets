@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Cinema>
+@{
+    var i = 0;
+}
+<div class="container">
+    <div class="row mb-3 align-items-center my-3">
+        <div class="col-md-6">
+            <h2 class="display-6">Cinema</h2>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Description  </th>
+                        <th scope="col">Address</th>
+                        <th scope="col">Movies</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@(++i)</th>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.Address</td>
+                            <td><a class="" href="/Customer/Home/AllCinemaMovie/@item.Id">Movies </a></td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

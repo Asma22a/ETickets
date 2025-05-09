@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\movie\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\movie\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\movie\\allmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\movie\\allmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\cinema\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\cinema\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\cinema\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\cinema\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\cinema\\allcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\cinema\\allcinema.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\category\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\category\\creat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\category\\allcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\actormovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\actormovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\moviestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\models\\dateonlyhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\models\\dateonlyhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|c:\\users\\user\\desktop\\new folder (2)\\etickets1\\etickets1\\etickets1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A903818-B31D-4E37-9170-394202D5DAE9}|ETickets1\\ETickets1.csproj|solutionrelative:etickets1\\etickets1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:28:36.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Creat.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\Creat.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Movie\\Creat.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\Creat.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Movie\\Creat.cshtml",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAUwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:28:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllMovie.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\AllMovie.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Movie\\AllMovie.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Movie\\AllMovie.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Movie\\AllMovie.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:27:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:25:08.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Cinema\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\Edit.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Cinema\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:23:16.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Creat.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\Creat.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Cinema\\Creat.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\Creat.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Cinema\\Creat.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:22:44.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllCinema.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\AllCinema.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Cinema\\AllCinema.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Cinema\\AllCinema.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Cinema\\AllCinema.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:22:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Controllers\\CinemaController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:21:10.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:19:05.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Creat.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\Creat.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Category\\Creat.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\Creat.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Category\\Creat.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:18:33.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\AllCategory.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Category\\AllCategory.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Category\\AllCategory.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Category\\AllCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T20:17:44.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:15:47.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:35:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:34:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ETickets1\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T19:34:25.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ETickets1\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ETickets1\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T19:32:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MovieStatus.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\MovieStatus.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\MovieStatus.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\MovieStatus.cs",
+              "RelativeToolTip": "ETickets1\\Models\\MovieStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:32:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DateOnlyHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\DateOnlyHelpers.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\DateOnlyHelpers.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\DateOnlyHelpers.cs",
+              "RelativeToolTip": "ETickets1\\Models\\DateOnlyHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:31:11.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Category.cs",
+              "RelativeToolTip": "ETickets1\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:30:15.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ActorMovie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\ActorMovie.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\ActorMovie.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\ActorMovie.cs",
+              "RelativeToolTip": "ETickets1\\Models\\ActorMovie.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:29:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Actor.cs",
+              "RelativeToolTip": "ETickets1\\Models\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:29:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cinema.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Cinema.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\Cinema.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Cinema.cs",
+              "RelativeToolTip": "ETickets1\\Models\\Cinema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:30:44.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ETickets1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAvwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:27:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "ETickets1\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\Models\\Movie.cs",
+              "RelativeToolTip": "ETickets1\\Models\\Movie.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:31:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ETickets1",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\ETickets1.csproj",
+              "RelativeDocumentMoniker": "ETickets1\\ETickets1.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\New folder (2)\\ETickets1\\ETickets1\\ETickets1.csproj",
+              "RelativeToolTip": "ETickets1\\ETickets1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T17:25:34.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

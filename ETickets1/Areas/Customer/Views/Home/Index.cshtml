@@ -1,0 +1,117 @@
+﻿@model IEnumerable<Movie>
+@{
+	DateOnly today = DateOnlyHelpers.Today;
+}
+<style>
+	* {
+	font-family: 'Poppins', sans-serif;
+	-webkit-user-select: none;
+	-moz-user-select: -moz-none;
+	-o-user-select: none;
+	user-select: none;
+	}
+
+	img {
+	-webkit-user-drag: none;
+	-moz-user-drag: none;
+	-o-user-drag: none;
+	user-drag: none;
+	}
+
+	img {
+	pointer-events: none;
+	}
+
+	.movie_card {
+	padding: 0 !important;
+	width: 22rem;
+	margin: 14px;
+	border-radius: 10px;
+	box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.19);
+	}
+
+	.movie_card img {
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	height: 22rem;
+	}
+
+	.movie_info {
+	color: #5e5c5c;
+	}
+
+	.movie_info i {
+	font-size: 25px;
+	}
+
+	.card-title {
+	width: 100%;
+
+	}
+
+	.credits {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 8px;
+	border: 2px solid #8e24aa;
+	font-size: 18px;
+	}
+
+	.credits .card-body {
+	padding: 0;
+	}
+
+	.credits p {
+	padding-top: 15px;
+	padding-left: 18px;
+	}
+
+	.credits .card-body i {
+	color: #8e24aa;
+	}
+	.badge{
+	float: right
+	}
+</style>
+<div class="">
+	<div class="row justify-content-center">
+		<form class="d-flex mt-3 mt-lg-0">
+			<input class="form-control me-2" type="search" placeholder="Movie Name" name="SearchMovie">
+			<button class="btn btn-outline-success" type="submit">Search</button>
+		</form>
+		@foreach (var item in Model)
+		{
+			<div class="card movie_card">
+				<img src="~/images/movies/@item.ImgUrl" class="card-img-top" alt="...">
+				<div class="card-body">
+
+					<h5 class="card-title">@item.Name</h5>
+					<div class="badge">
+						<h6><span class="badge text-bg-primary  rounded-pill">@item.MovieStatus</span></h6>
+					</div>
+
+
+					<span class="movie_info">Price: @item.Price.ToString("c")</span><br />
+					<span class="movie_info">StartDate: @item.StartDate</span><br />
+					<span class="movie_info">EndDate: @item.EndDate</span><br />
+					<span class="movie_info">Cinema: @item.Cinema.Name </span><br />
+					<span class="movie_info">Category: @item.Category.Name</span><br />
+					<div class="d-grid gap-2 d-sm-flex justify-content-sm-center py-2">
+
+						<a href="/Customer/Home/Details/@item.Id" class="btn btn-outline-secondary btn-sm px-3">More Details</a>
+
+						@if (today > item.EndDate)
+						{
+							<a type="button" class="btn btn-secondary btn-sm px-3 gap-3" aria-disabled="true">Book Ticket</a>
+						}
+						else
+						{
+							<button type="button" class="btn btn-primary btn-sm px-3 gap-3">Book Ticket</button>
+						}
+
+					</div>
+				</div>
+			</div>
+		}
+	</div>
+</div>
