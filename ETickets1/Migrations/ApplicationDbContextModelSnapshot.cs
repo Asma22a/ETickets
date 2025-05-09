@@ -78,16 +78,10 @@ namespace ETickets1.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int?>("ActorId")
+                    b.Property<int>("ActorId")
                         .HasColumnType("int");
 
-                    b.Property<int>("ActorsId")
-                        .HasColumnType("int");
-
-                    b.Property<int?>("MovieId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("MoviesId")
+                    b.Property<int>("MovieId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
@@ -215,11 +209,15 @@ namespace ETickets1.Migrations
                 {
                     b.HasOne("ETickets1.Models.Actor", "Actor")
                         .WithMany("actorMovies")
-                        .HasForeignKey("ActorId");
+                        .HasForeignKey("ActorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("ETickets1.Models.Movie", "Movie")
                         .WithMany("actorMovies")
-                        .HasForeignKey("MovieId");
+                        .HasForeignKey("MovieId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Actor");
 

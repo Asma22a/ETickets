@@ -1,24 +1,30 @@
-﻿@model Movie
+﻿@using ETickets1.Models.ViewModels
+@model MovieActorsVM
 <div class="container-fluid py-5">
-	<h1>@Model.Name</h1>
+	<h1>@Model.Movie.Name</h1>
 	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
 		<div class="col p-4 d-flex flex-column position-static">
 			<strong>Description:</strong>
-			<p> @Model.Description</p>
-			<p>Price: @Model.Price.ToString("c")</p>
-			<p>Start Date: @Model.StartDate</p>
-			<p>End Date: @Model.EndDate</p>
-			<p>Cinema: @Model.Cinema.Name</p>
-			<p>Category: @Model.Category.Name</p>
-
+			<p> @Model.Movie.Description</p>
+			<p>Price: @Model.Movie.Price.ToString("c")</p>
+			<p>Start Date: @Model.Movie.StartDate</p>
+			<p>End Date: @Model.Movie.EndDate</p>
+			<p>Cinema: @Model.Movie.Cinema.Name</p>
+			<p>Category: @Model.Movie.Category.Name</p>
+			<div class="col-md-8">
+			@foreach (var item in Model.ActorMovies)
+			{
+				<a href="/Customer/Home/ActorDetails/@item.Actor.Id"> <img src="~/images/cast/@item.Actor.ProfilePicture" /> </a>
+			}
+            </div>
 			<div class="embed-responsive embed-responsive-16by9 mt-3">
 				<video class="embed-responsive-item" controls>
-					<source src="@Model.TrailerUrl" type="video/mp4">
+					<source src="@Model.Movie.TrailerUrl" type="video/mp4">
 				</video>
 			</div>
 		</div>
 		<div class="col-auto d-none d-lg-block">
-			<img src="~/images/movies/@Model.ImgUrl" alt="..." width="400" height="500" />
+			<img src="~/images/movies/@Model.Movie.ImgUrl" alt="..." width="400" height="500" />
 
 		</div>
 		<div class="container-fluid py-2">

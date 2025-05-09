@@ -20,7 +20,6 @@
     <Folder Include="Areas\Identity\Controllers\" />
     <Folder Include="Areas\Identity\Views\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Models\ViewModels\" />
     <Folder Include="wwwroot\images\cinema-logo\" />
   </ItemGroup>
 

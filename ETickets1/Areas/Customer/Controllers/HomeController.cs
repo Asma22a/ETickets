@@ -1,9 +1,9 @@
 using System.Diagnostics;
 using ETickets1.Data;
 using ETickets1.Models;
+using ETickets1.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-
 namespace ETickets1.Areas.Customer.Controllers
 {
     [Area("Customer")]
@@ -29,7 +29,24 @@ namespace ETickets1.Areas.Customer.Controllers
         public IActionResult Details(int id)
         {
             var Movie = _context.Movies.Include(e => e.Cinema).Include(e => e.Category).Where(e => e.Id == id).FirstOrDefault();
-            return View(Movie);
+            var actorMovie = _context.ActorMovies.Include(e => e.Actor).Where(e => e.MovieId == id);
+            MovieActorsVM movieActorsVM = new()
+            {
+                ActorMovies = actorMovie.ToList(),
+                Movie = Movie
+            };
+            return View(movieActorsVM);
+        }
+        public IActionResult ActorDetails(int id)
+        {
+            var Actor = _context.Actors.Find(id);
+            var relatedMovie = _context.ActorMovies.Include(e => e.Movie).Where(e => e.ActorId == id);
+            ActorMovieRelatedVM actorMovieRelatedVM = new()
+            {
+                ActorMovies = relatedMovie.ToList(),
+                Actor = Actor
+            };
+            return View(actorMovieRelatedVM);
         }
         public IActionResult Cinema()
         {

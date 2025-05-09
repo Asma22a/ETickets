@@ -1,0 +1,42 @@
+﻿@model ActorMovieRelatedVM
+@{
+	DateOnly today = DateOnlyHelpers.Today;
+}
+
+
+<div class="container-fluid py-5">
+	<div class="mb-2">
+		<h2> Actor Details</h2>
+	</div>
+	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+		
+		<div class="col p-4 d-flex flex-column position-static">
+			<div class="col-md-8 mb-2">
+
+				<img src="~/images/cast/@Model.Actor.ProfilePicture" width="70" />
+
+			</div>
+			<div class="row mb-2">
+			   <h5>@Model.Actor.FirstName @Model.Actor.LastName </h5>
+			</div>
+			<div class="row mb-2">
+				<strong> Bio:</strong>
+			</div>
+			<div class="row mb-2">
+				<p> @Model.Actor.Bio</p>
+			</div>
+			<div class="row mb-2">
+				<a href="#" class="icon-link gap-1 icon-link-hover stretched-link">
+					Social Media
+					<svg class="bi" aria-hidden="true"><use xlink:href="#chevron-right"></use></svg>
+				</a>
+				
+			</div>
+
+			
+			
+		</div>
+		
+	</div>
+</div>
+
